@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>DESTINY'S WEBSITE</title>
+	<link rel="stylesheet" type="text/css" href="CSS/main.css">
+
+	<style type="text/css">
+		body{
+			background-color: #faebd7;
+		}
+		h2{
+			color: #000000;
+			font-family: cursive;
+			font-weight: 500px
+			text-align: center;
+			text-decoration: underline;
+		}
+		.title{
+			text-decoration: underline;
+		}
+		p{
+			color: rgb(000000);
+		}
+		a{
+			font-size: small;
+			text-decoration: none;
+		}
+
+	</style>	
+
+
+</head>
+<body>
+
+<div id="div1">	
+	<h2>DESTINY WILLIAMS</h2>
+	<h3> welcome ! </h3>
+
+<style type="text/css">
+	#div1{
+		background color: grey;
+	}
+	#div2{
+		background color: grey;
+	}
+	#div3{
+		background-color: grey;
+	}
+	#div4{
+		background-color: grey;
+	}
+	#div5{
+		background-color: grey;
+	}
+
+	#div1, #div2, #div3, #div4, #div5 {
+		border: dashed;
+	}
+</style>
+
+	<nav>
+		<a href="pages/stories.html"> stories </a>
+		<a href=""> contact </a>
+	</nav>
+</div>	
+
+	<ul >
+		<li> <a href="#"> Menu 1</a></li>
+		<li> <a href="#"> Menu 2</a></li>
+		<li> <a href="#"> Menu 3</a></li>
+	</ul>
+
+	<p id="aboutme"> a little about me. i am habitually late, but not on purpose mostly because i have adhd have a horrible sence of time. my former career aspiration was to be a physician assistant(however the pandemic kinda changed that) but currently due to my former goal i work in an emergeny room as a pct. the coolest thing ive done is skydiving right after i broke up with my ex-girlfirend. lastly my favourite colour is yellow. 
+
+		<style type="text/css">
+			h1{
+				color: #5c4425;
+			}
+			#aboutme{ 
+				color: brown;
+			}
+			
+
+		</style>
+	</p>
+
+	<img src="https://i.pinimg.com/564x/ba/91/2d/ba912d219effdd3eb523c312e1fa0eaf.jpg"</img>
+
+<div id="div2">
+	<p id="destinyfacts"> three things that i like ! :)</p>
+
+	<style type="text/css">
+		h3{
+			color: grey;
+		}
+
+		#destinyfacts{
+			color: grey;
+		}
+
+	</style>
+
+<ol>
+	<li class="factlist">baking</li> 
+	<li class="factlist">skiing</li>	
+	<li>music</li>
+</ol>	
+
+	<style type="text/css">
+		h2{
+			color: brown;
+		}
+		#destinyfacts{
+			color:brown;
+		}
+		.factlist{
+			text-decoration: underline;
+		}
+
+	</style>
+</div>
+
+	<img src="https://i.pinimg.com/564x/5c/6e/09/5c6e09a809c74a0011355007d453a633.jpg"</img>
+
+<body>
+
+	<form>
+		<h3>GET TO KNOW YOU :)</h3>
+		first name: <br>
+		<input type="text" name="firstname"> <br>
+		last name:  <br>
+		<input type="text" name="lastname"> <br>
+		age:	    <br>
+		<input type="text" name="age">
+		gender
+		<input type="radio" name="gender" value="female">
+			       female <br>
+		<input type="radio" name="gender" value="male">			
+					male <br>
+		<input type="button" name="submit" value="submit">			
+
+	</form>
+
+</body>	
+
+
+<h1><span>T</span>hanks, <span>f</span>or <span>r</span>eading! :)</h1>
+
+</body>
+
+body{
+	border: solid;
+	margin: 5px
+	padding: 10px
+	padding: 20px;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	padding: 0;
+}
+
+
+
+</body>
+</html>		
